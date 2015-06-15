@@ -1,4 +1,4 @@
 # TEST Repo
 ---
-This is a test repo. Workin progress to start future projects.
+This is a test repo. Work in progress to start future projects.
 
